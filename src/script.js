@@ -6,10 +6,10 @@ import * as dat from 'dat.gui'
 /**
  * Base
  */
-// Debug!
+// Debug!!
 const gui = new dat.GUI()
 
-// Canvas
+// Canvas!!
 const canvas = document.querySelector('canvas.webgl')
 
 // Scene
